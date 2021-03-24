@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "aprender.py\\Scripts\\python.exe",
+    "code-runner.executorMap": {
+        "python": "aprender.py\\Scripts\\python.exe",
+        
+    }
+}
