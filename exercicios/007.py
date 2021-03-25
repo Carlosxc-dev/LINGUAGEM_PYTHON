@@ -1,1 +1,1 @@
-print('oi')
+texto = ('curso em viddeo python')
