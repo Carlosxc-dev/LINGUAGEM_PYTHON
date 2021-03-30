@@ -1,8 +1,4 @@
-lista = ('borracha', 1,
-        'lapis', 1.50,
-        'caderno', 10,
-        'tesoura', 5,
-        'pincel', 2.50)
+lista = ('borracha', 1, 'lapis', 1.50, 'caderno', 10, 'tesoura', 5, 'pincel', 2)
 print('-'*40)
 print(f'{"LISTAGEM DE PREÇOS":^30}')
 print('-'*40)
