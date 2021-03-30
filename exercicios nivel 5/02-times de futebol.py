@@ -1,0 +1,13 @@
+times = ('time1', 'time2', 'time3', 'time4','time5', 'time6', 'time7', 'time8', 'time9', 'time10')
+print('~~'*20)
+print(f'lista de times do brasilerao: {times}')
+print('~~'*20)
+print(f'os 5 primeiros sao: {times[0:5]}')
+print('~~'*20)
+print(f'os 4 ultimos sao {times[-4:]}')
+print('~~'*20)
+print(f'os times em ordem alfabetica sao {sorted(times)}')
+print('~~'*20)
+print(f'os time 8 esta na posicao {times.index("time8")+1}ª posicao')
+print('~~'*20)
+
