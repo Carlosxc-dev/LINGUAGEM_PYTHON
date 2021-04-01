@@ -1,6 +1,6 @@
 def area(larg, comp):
     a = larg * comp
-    print(f'a are a de um terreno {larg} x {comp} e de {a} m2')
+    print(f'a area de um terreno {larg} x {comp} e de {a} m2')
 
 
 # programa principal

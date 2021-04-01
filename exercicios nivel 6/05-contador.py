@@ -13,7 +13,7 @@ def contador(i, f, p):
     if i < f:
         cont = i
         while cont <= f:
-            print(f'{cont}  ', end='', flush=True)
+            print(f'{cont}', end='', flush=True)
             sleep(0.5)
             cont += p
         print('fim.....')
