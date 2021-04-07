@@ -1,8 +1,8 @@
-num1 = 0
-num2 = 0
+n1 = 0
+n2 = 0
 
-nun1 = input("num1 ?")
-num2 = input("num2 ?")
-soma = num1 + num2
+n1 = int(input("num1 ?"))
+n2 = int(input("num2 ?"))
+s = n1 + n2
 
-print(soma)
+print(s)
