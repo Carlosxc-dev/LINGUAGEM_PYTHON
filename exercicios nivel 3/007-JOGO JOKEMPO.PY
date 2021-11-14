@@ -8,9 +8,9 @@ print('------JOKENPO-------')
 print('-=' * 15)
 
 print('''suas opcoes sao:
-[ 1 ] pedra 
-[ 2 ] papel
-[ 3 ] tesoura ''')
+[ 0 ] pedra 
+[ 1 ] papel
+[ 2 ] tesoura ''')
 
 jogador = int(input('qual sua jogada: '))
 print('jo')     # novos aprendizagem de tempo
