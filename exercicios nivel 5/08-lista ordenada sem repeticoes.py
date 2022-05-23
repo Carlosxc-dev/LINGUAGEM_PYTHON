@@ -16,3 +16,4 @@ print('-='*30)
 print(f'os valores digitados em ordem sao {lista}')
 
 
+
